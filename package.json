@@ -1,0 +1,23 @@
+{
+  "name": "meanmysql",
+  "version": "1.0.0",
+  "description": "mysql connect",
+  "main": "index.js",
+  "dependencies": {
+    "mysql": "^2.15.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anakymkerberos/MEANmysqlconnect.git"
+  },
+  "author": "marcelo cuellar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anakymkerberos/MEANmysqlconnect/issues"
+  },
+  "homepage": "https://github.com/anakymkerberos/MEANmysqlconnect#readme"
+}
